@@ -1,0 +1,7 @@
+Summarizer for Hacker News
+
+to install: 
+pip install -r requirements.pip
+
+to run:
+python run.py
