@@ -1,0 +1,7 @@
+PyYAML==3.10
+Werkzeug==0.8.3
+lxml==2.3.4
+nltk==2.0.1
+numpy==1.6.2
+selenium==2.23.0
+wsgiref==0.1.2
